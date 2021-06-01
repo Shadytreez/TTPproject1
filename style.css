@@ -1,0 +1,14 @@
+.slot1, .slot2, .slot3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 360px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+  }
+
+.list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+        'slot1 slot2 slot3';
+}
