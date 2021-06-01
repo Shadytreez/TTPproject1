@@ -6,6 +6,12 @@
     margin: auto;
     text-align: center;
   }
+
+  .org-title{
+    margin-right: 30px;
+    font-weight: bold;
+}
+
 .list{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
