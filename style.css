@@ -1,5 +1,5 @@
 .nav-wrapper{
-    background-color: skyblue;
+   background-image: url(navbg.jpg);
     grid-area: nav-wrapper;
     display: flex;
     justify-content: flex-end;
