@@ -67,6 +67,7 @@ padding:10px;
 
 .list{
   display: grid;
+  margin-top: 50px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas: 
       'slot1 slot2 slot3';
@@ -77,6 +78,7 @@ padding:10px;
   align-items:center;
   flex-wrap: wrap;
   justify-content: center;
+  padding: 10px;
 }
 
 .pic{
