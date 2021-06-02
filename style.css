@@ -72,6 +72,13 @@ padding:10px;
       'slot1 slot2 slot3';
 }
 
+.box{
+  display:flex;
+  align-items:center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .pic{
   display: block;
   width: 300px;
