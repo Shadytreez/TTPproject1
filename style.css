@@ -71,3 +71,9 @@ border:1px #ccc solid;
     height: 200px;
     margin-bottom: 20px;
 }
+body{
+    background-image: url("https://tenants-to-homeowners.org/wp-content/uploads/2017/03/just-green-tones-for-website-backgrounds-and-wallpapers-f4.jpg" );
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
